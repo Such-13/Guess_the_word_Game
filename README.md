@@ -1,5 +1,8 @@
 # Guess_the_word_Game
 A dictionary game to learn new word with fun. 
+## Demo
+
+Try the live demo of the game [here](https://66d3018b81978d0070d2f2f9--venerable-vacherin-c7227d.netlify.app/) - `word_dict_game`.
 # Guess the Word Game
 
 A fun and interactive word guessing game built with HTML, CSS, and JavaScript. The game fetches a random word from an API, and the player has to guess the word letter by letter with a limited number of attempts.
